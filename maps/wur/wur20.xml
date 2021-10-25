@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GardenMap>
+   <Version>1</Version>
+   <Range>[-7.81034898757935 14.2356405258179;-9.64335632324219 5.67630529403687;-1.48912000656128 3.13111901283264]</Range>
+   <Labels>
+      <item>Unknown</item>
+      <item>Ground-Generic</item>
+      <item>Ground-Grass</item>
+      <item>Ground-Dirt</item>
+      <item>Ground-Gravel</item>
+      <item>Ground-Mulch</item>
+      <item>Ground-Pebbles</item>
+      <item>Ground-WoodChips</item>
+      <item>Ground-Pavement</item>
+      <item>Hedge-Generic</item>
+      <item>Hedge-Box</item>
+      <item>Hedge-Ivy</item>
+      <item>Hedge-Post</item>
+      <item>Topiary-Generic</item>
+      <item>Topiary-Cuboid</item>
+      <item>Topiary-Ellipsoid</item>
+      <item>Topiary-Cylinder</item>
+      <item>Topiary-Cone</item>
+      <item>Rose-Generic</item>
+      <item>Rose-Stem</item>
+      <item>Rose-Branch</item>
+      <item>Rose-Leaf</item>
+      <item>Rose-Bud</item>
+      <item>Rose-Flower</item>
+      <item>Obstacle-Generic</item>
+      <item>Obstacle-Bench</item>
+      <item>Obstacle-Tree</item>
+      <item>Obstacle-Fence</item>
+      <item>Obstacle-Steps</item>
+      <item>Obstacle-FlowerPot</item>
+      <item>Obstacle-Stone</item>
+      <item>Obstacle-Water</item>
+      <item>Obstacle-Wall</item>
+      <item>Obstacle-Post</item>
+      <item>Obstacle-Trunk</item>
+      <item>Obstacle-Human</item>
+      <item>Robot-Base</item>
+      <item>Robot-Vehicle</item>
+      <item>Robot-Arm</item>
+      <item>Background-Generic</item>
+      <item>Background-Road</item>
+      <item>Background-House</item>
+      <item>Background-Sky</item>
+   </Labels>
+   <Terrain>
+      <Vertices>[-7.81034898757935 -9.64335632324219 -1.48912000656128;-7.81034898757935 5.6744384765625 -1.48912000656128;14.2351837158203 5.6744384765625 -1.48912000656128;14.2351837158203 -9.64335632324219 -1.48912000656128]</Vertices>
+      <Faces>[1 2 3 4]</Faces>
+      <FaceLabels>3</FaceLabels>
+   </Terrain>
+   <Objects>
+      <item>
+         <diam>[0.76043701171875 6.43156409263611 1.37249799817801]</diam>
+         <pos>[9.69325256347656 0.429344058036804 -1.47959899902344]</pos>
+         <orient>[0 0 0]</orient>
+         <label>12</label>
+         <id>2</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.244537830352783 0.554013967514038 0.892715036869049]</diam>
+         <pos>[-7.68808007240295 3.16610610485077 -1.35160803794861]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>3</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.259033203125 0.205506324768066 0.339966058731079]</diam>
+         <pos>[6.90068054199219 -5.19828796386719 -1.38868701457977]</pos>
+         <orient>[0 0 0]</orient>
+         <label>34</label>
+         <id>4</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[19.3873286247253 0.980093479156494 0.778790354728699]</diam>
+         <pos>[2.98161339759827 5.18439173698425 -1.37818896770477]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>5</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.769042998552322 0.715907096862793 0.441291213035583]</diam>
+         <pos>[-0.025253489613533 -4.55404949188232 -1.38552856445312]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>6</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.241608142852783 0.117004871368408 1.69859349727631]</diam>
+         <pos>[6.7946469783783 -5.59394860267639 -1.38041698932648]</pos>
+         <orient>[0 0 0]</orient>
+         <label>35</label>
+         <id>7</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[2.46902370452881 2.09361362457275 0.717244327068329]</diam>
+         <pos>[-3.63442993164062 -6.59406280517578 -1.25644433498383]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>8</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.602997064590454 0.531310558319092 0.399723529815674]</diam>
+         <pos>[3.60537755489349 -2.37071228027344 -1.44667053222656]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>9</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.763544738292694 0.632125534117222 0.678587973117828]</diam>
+         <pos>[1.26893869042397 0.386909764260054 -1.4465479850769]</pos>
+         <orient>[0 0 0]</orient>
+         <label>19</label>
+         <id>10</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.767517000436783 0.761505022644997 0.627808034420013]</diam>
+         <pos>[-0.866897508502007 0.253509514033794 -1.43736302852631]</pos>
+         <orient>[0 0 0]</orient>
+         <label>19</label>
+         <id>11</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.392074584960938 10.1861267089844 0.348202407360077]</diam>
+         <pos>[11.3598403930664 -1.9903564453125 -1.34518122673035]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>12</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.700133800506592 0.870085954666138 0.372684478759766]</diam>
+         <pos>[-3.86228542004602 -0.908473226983666 -1.27778601646423]</pos>
+         <orient>[0 0 0]</orient>
+         <label>16</label>
+         <id>13</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[17.1915740966797 0.623718023300171 0.289346933364868]</diam>
+         <pos>[2.91553497314453 4.08180201053619 -1.36427295207977]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>14</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.538605690002441 1.62026953697205 0.76214599609375]</diam>
+         <pos>[12.5960993766785 -4.09066784381866 -1.3650050163269]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>15</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[1.85542750358582 1.76483488082886 0.287375211715698]</diam>
+         <pos>[-3.21210205554962 -5.63020157814026 -1.2679899930954]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>16</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[14.5728149414062 0.664824962615967 0.664204776287079]</diam>
+         <pos>[4.89277648925781 -7.91400170326233 -1.23849976062775]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>17</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.41357421875 10.9703059196472 0.779471695423126]</diam>
+         <pos>[-6.82136487960815 -0.119109869003296 -1.3448246717453]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>18</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[1.36306810379028 0.21710205078125 0.269006967544556]</diam>
+         <pos>[-5.29730200767517 -4.61085510253906 -1.27148401737213]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>19</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.477538585662842 7.87213134765625 0.332031488418579]</diam>
+         <pos>[-5.89616370201111 -0.547653198242188 -1.35295104980469]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>20</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[1.792236328125 4.74685621261597 2.38284301757812]</diam>
+         <pos>[13.3390655517578 -7.2699282169342 -1.48912000656128]</pos>
+         <orient>[0 0 0]</orient>
+         <label>40</label>
+         <id>21</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[2.60366821289062 3.28353881835938 3.42831492424011]</diam>
+         <pos>[6.84970092773438 -5.500732421875 -0.432754993438721]</pos>
+         <orient>[0 0 0]</orient>
+         <label>27</label>
+         <id>22</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.496795654296875 12.8990788459778 0.818334877490997]</diam>
+         <pos>[12.4479675292969 -1.76837134361267 -1.35707688331604]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>23</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.787178039550781 0.446303367614746 0.187348008155823]</diam>
+         <pos>[9.15291213989258 -6.64811038970947 -1.34809899330139]</pos>
+         <orient>[0 0 0]</orient>
+         <label>38</label>
+         <id>24</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.763031005859375 0.739726066589355 0.374770998954773]</diam>
+         <pos>[-3.85373332136769 -2.54910344996695 -1.24958801269531]</pos>
+         <orient>[0 0 0]</orient>
+         <label>16</label>
+         <id>25</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[3.68576100468636 3.7337851524353 3.04040508344769]</diam>
+         <pos>[1.47137449681759 -4.79461169242859 -0.0250700004398823]</pos>
+         <orient>[0 0 0]</orient>
+         <label>27</label>
+         <id>26</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.818206995725632 0.711579084396362 0.452544987201691]</diam>
+         <pos>[0.0312805026769638 -2.33929455280304 -1.4264680147171]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>27</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.178436040878296 0.379851818084717 1.55216997861862]</diam>
+         <pos>[1.69882202148438 -5.3102719783783 -1.34675598144531]</pos>
+         <orient>[0 0 0]</orient>
+         <label>35</label>
+         <id>28</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.675994962453842 0.823638916015625 0.608520030975342]</diam>
+         <pos>[-0.629821494221687 2.47998046875 -1.45124804973602]</pos>
+         <orient>[0 0 0]</orient>
+         <label>19</label>
+         <id>29</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.645670652389526 0.658421874046326 0.457754075527191]</diam>
+         <pos>[-3.73188295000691 0.758620589466419 -1.29202806949615]</pos>
+         <orient>[0 0 0]</orient>
+         <label>16</label>
+         <id>30</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[1.23788452148438 0.355498790740967 1.09426900744438]</diam>
+         <pos>[8.79501342773438 -7.75305151939392 -1.48808300495148]</pos>
+         <orient>[0 0 0]</orient>
+         <label>25</label>
+         <id>31</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.83007800579071 0.776366949081421 0.365203976631165]</diam>
+         <pos>[1.75196796655655 -2.5070344209671 -1.42411804199219]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>32</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.827982425689697 0.763000011444092 0.426137030124664]</diam>
+         <pos>[-3.6995245238482 2.33827691563105 -1.3170520067215]</pos>
+         <orient>[0 0 0]</orient>
+         <label>16</label>
+         <id>33</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.886322021484375 0.544837951660156 0.396210074424744]</diam>
+         <pos>[5.66357421875 -2.52156448364258 -1.44102501869202]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>34</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[1.87008619308472 4.25677502155304 0.408488154411316]</diam>
+         <pos>[7.33154320716858 0.606857478618622 -1.47713720798492]</pos>
+         <orient>[0 0 0]</orient>
+         <label>11</label>
+         <id>35</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[3.44824194908142 3.64898645877838 3.32528594136238]</diam>
+         <pos>[4.04356396198273 -0.401534736156464 -0.200850993394852]</pos>
+         <orient>[0 0 0]</orient>
+         <label>27</label>
+         <id>36</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.6112060546875 0.678451538085938 0.483856499195099]</diam>
+         <pos>[3.58543395996094 -4.64658355712891 -1.40858447551727]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>37</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.660339832305908 0.727843761444092 0.435627996921539]</diam>
+         <pos>[5.47682213783264 -4.61964392662048 -1.39405798912048]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>38</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.872863054275513 0.672623157501221 0.601186454296112]</diam>
+         <pos>[1.33293151855469 2.3888623714447 -1.45627343654633]</pos>
+         <orient>[0 0 0]</orient>
+         <label>19</label>
+         <id>39</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.64585816860199 0.618576049804688 0.406103134155273]</diam>
+         <pos>[1.85002881288528 -4.49172210693359 -1.36057996749878]</pos>
+         <orient>[0 0 0]</orient>
+         <label>14</label>
+         <id>40</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.230133056640625 0.908386021852493 1.70948496460915]</diam>
+         <pos>[4.05279541015625 -0.297775015234947 -1.4041600227356]</pos>
+         <orient>[0 0 0]</orient>
+         <label>35</label>
+         <id>41</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.0824072360992432 0.0861968398094177 0.280585646629333]</diam>
+         <pos>[3.72037732601166 -0.469581574201584 -1.37547302246094]</pos>
+         <orient>[0 0 0]</orient>
+         <label>34</label>
+         <id>42</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[12.6977081298828 0.634735107421875 0.27352899312973]</diam>
+         <pos>[4.06359100341797 -6.79336547851562 -1.25041198730469]</pos>
+         <orient>[0 0 0]</orient>
+         <label>28</label>
+         <id>43</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[0.572479248046875 2.54516577720642 0.355682015419006]</diam>
+         <pos>[11.9126281738281 -4.23802196979523 -1.3878630399704]</pos>
+         <orient>[0 0 0]</orient>
+         <label>25</label>
+         <id>44</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <diam>[1.44634947180748 0.2823486328125 1.83874493837357]</diam>
+         <pos>[0.830581739544868 -8.21903991699219 -1.39311194419861]</pos>
+         <orient>[0 0 0]</orient>
+         <label>40</label>
+         <id>45</id>
+         <shape>1</shape>
+      </item>
+   </Objects>
+</GardenMap>

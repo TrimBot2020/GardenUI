@@ -1,0 +1,1 @@
+/home/radim/Documents/proj/TrimBot/GardenUI/trimbot_msgs/jar/trimbot_msgs-1.0.0.jar

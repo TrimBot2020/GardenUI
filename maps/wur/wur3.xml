@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GardenMap>
+   <Version>1</Version>
+   <Range>[-8.94560432434082 14.5262880325317;-9.91877746582031 7.8881630897522;-1.66533195972443 3.03962302207947]</Range>
+   <Labels>
+      <item>Ground</item>
+      <item>Grass</item>
+      <item>Dirt</item>
+      <item>Gravel</item>
+      <item>Mulch</item>
+      <item>Pebbles</item>
+      <item>Hedge</item>
+      <item>Boxwood</item>
+      <item>Topiary</item>
+      <item>Rose</item>
+      <item>RoseStem</item>
+      <item>RoseBranch</item>
+      <item>RoseLeaf</item>
+      <item>RoseBud</item>
+      <item>RoseFlower</item>
+      <item>Obstacle</item>
+      <item>Bench</item>
+      <item>Tree</item>
+      <item>Fence</item>
+   </Labels>
+   <Terrain>
+      <Vertices>[-8.94560432434082 -9.91877746582031 -1.66533195972443;-8.94560432434082 7.8881630897522 -1.66533195972443;14.5262880325317 7.8881630897522 -1.66533195972443;14.5262880325317 -9.91877746582031 -1.66533195972443]</Vertices>
+      <Faces>[1 2 3 4]</Faces>
+      <FaceLabels>1</FaceLabels>
+   </Terrain>
+   <Objects>
+      <item>
+         <pos>[-0.0202875344430034 -2.39232695557303 -1.66533195972443]</pos>
+         <diam>[0.811121232933917 0.886574370881259 1]</diam>
+         <orient>[0 0 0]</orient>
+         <label>10</label>
+         <id>2</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[7.29866684644909 2.32349416613579 -1.66533195972443]</pos>
+         <diam>[1.9806448711177 0.509308681144553 1]</diam>
+         <orient>[0 0 0]</orient>
+         <label>7</label>
+         <id>3</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[8.0531982259225 0.352280937261501 -1.66533195972443]</pos>
+         <diam>[0.584761819091892 3.54629748352503 1]</diam>
+         <orient>[0 0 0]</orient>
+         <label>7</label>
+         <id>4</id>
+         <shape>1</shape>
+      </item>
+   </Objects>
+</GardenMap>

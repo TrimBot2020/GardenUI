@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GardenMap>
+   <Version>1</Version>
+   <Range>[-10.1574401855469 15.7134399414062;-13.946647644043 11.9242324829102;-1.65820026397705 3.07584476470947]</Range>
+   <Labels>
+      <item>Ground</item>
+      <item>Grass</item>
+      <item>Dirt</item>
+      <item>Gravel</item>
+      <item>Mulch</item>
+      <item>Pebbles</item>
+      <item>Hedge</item>
+      <item>Boxwood</item>
+      <item>Topiary</item>
+      <item>Rose</item>
+      <item>RoseStem</item>
+      <item>RoseBranch</item>
+      <item>RoseLeaf</item>
+      <item>RoseBud</item>
+      <item>RoseFlower</item>
+      <item>Obstacle</item>
+      <item>Bench</item>
+      <item>Tree</item>
+      <item>Fence</item>
+   </Labels>
+   <Terrain>
+      <Vertices>[-10.1574401855469 -13.946647644043 -1.65820026397705;-10.1574401855469 11.9242324829102 -1.65820026397705;15.7134399414062 11.9242324829102 -1.65820026397705;15.7134399414062 -13.946647644043 -1.65820026397705]</Vertices>
+      <Faces>[1 2 3 4]</Faces>
+      <FaceLabels>1</FaceLabels>
+   </Terrain>
+   <Objects>
+      <item>
+         <pos>[-0.784727258197332 2.45559997881873 -1.65820026397705]</pos>
+         <diam>[0.739951020580229 0.657734240515758 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>10</label>
+         <id>2</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[1.28439504009182 2.35968040207685 -1.65820026397705]</pos>
+         <diam>[0.767356613935053 0.630328647160935 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>10</label>
+         <id>3</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[-0.921755224971449 0.304260900465106 -1.65820026397705]</pos>
+         <diam>[0.739951020580229 0.630328647160933 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>10</label>
+         <id>4</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[1.21588105670476 0.386477680529575 -1.65820026397705]</pos>
+         <diam>[0.685139833870579 0.630328647160937 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>10</label>
+         <id>5</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[-0.0721818309719282 -2.38148724830757 -1.65820026397705]</pos>
+         <diam>[0.739951020580229 0.685139833870579 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>6</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[1.75029012712382 -2.43629843501722 -1.65820026397705]</pos>
+         <diam>[0.657734240515758 0.575517460451287 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>7</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[3.60016767857439 -2.38148724830757 -1.65820026397705]</pos>
+         <diam>[0.63032864716093 0.575517460451287 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>8</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[5.54596480676683 -2.5322180117591 -1.65820026397705]</pos>
+         <diam>[0.685139833870583 0.60292305380611 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>9</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[-0.168101407713809 -4.50542073330637 -1.65820026397705]</pos>
+         <diam>[0.657734240515758 0.657734240515758 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>10</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[3.64127606860662 -4.5465291233386 -1.65820026397705]</pos>
+         <diam>[0.65773424051576 0.630328647160937 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>11</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[5.47745082337977 -4.6561514967579 -1.65820026397705]</pos>
+         <diam>[0.712545427225404 0.739951020580225 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>12</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[1.80510131383346 -4.50542073330637 -1.65820026397705]</pos>
+         <diam>[0.767356613935053 0.712545427225404 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>9</label>
+         <id>13</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[7.23140879808846 2.3048692153672 -1.65820026397705]</pos>
+         <diam>[1.97320272154727 0.575517460451287 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>7</label>
+         <id>14</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[7.99876541202351 0.249449713755459 -1.65820026397705]</pos>
+         <diam>[0.712545427225404 3.59013272948184 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>7</label>
+         <id>15</id>
+         <shape>1</shape>
+      </item>
+   </Objects>
+</GardenMap>

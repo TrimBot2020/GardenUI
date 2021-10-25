@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GardenMap>
+   <Version>1</Version>
+   <Range>[-8.94560432434082 14.5262880325317;-9.91877746582031 7.8881630897522;-1.66533195972443 3.03962302207947]</Range>
+   <Labels>
+      <item>Ground</item>
+      <item>Grass</item>
+      <item>Dirt</item>
+      <item>Gravel</item>
+      <item>Mulch</item>
+      <item>Pebbles</item>
+      <item>Hedge</item>
+      <item>Boxwood</item>
+      <item>Topiary</item>
+      <item>Rose</item>
+      <item>RoseStem</item>
+      <item>RoseBranch</item>
+      <item>RoseLeaf</item>
+      <item>RoseBud</item>
+      <item>RoseFlower</item>
+      <item>Obstacle</item>
+      <item>Bench</item>
+      <item>Tree</item>
+      <item>Fence</item>
+   </Labels>
+   <Terrain>
+      <Vertices>[-8.94560432434082 -9.91877746582031 -1.66533195972443;-8.94560432434082 7.8881630897522 -1.66533195972443;14.5262880325317 7.8881630897522 -1.66533195972443;14.5262880325317 -9.91877746582031 -1.66533195972443]</Vertices>
+      <Faces>[1 2 3 4]</Faces>
+      <FaceLabels>1</FaceLabels>
+   </Terrain>
+   <Objects>
+      <item>
+         <pos>[7.27037191971883 2.2763359549187 -1.66533195972443]</pos>
+         <diam>[1.99950815560454 0.490445396657719 0.7]</diam>
+         <orient>[0 0 0]</orient>
+         <label>7</label>
+         <id>1</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[8.01547165694883 0.305122726044413 -1.66533195972443]</pos>
+         <diam>[0.547035250118224 3.48970763006453 0.7]</diam>
+         <orient>[0 0 0]</orient>
+         <label>7</label>
+         <id>2</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[1.7434295650761 -2.36403202884278 -1.66533195972443]</pos>
+         <diam>[0.71680481049974 0.716804810499743 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>10</label>
+         <id>3</id>
+         <shape>1</shape>
+      </item>
+      <item>
+         <pos>[5.47835989346948 -2.48664337800721 -1.66533195972443]</pos>
+         <diam>[0.679078241526067 0.622488388065564 0.8]</diam>
+         <orient>[0 0 0]</orient>
+         <label>10</label>
+         <id>4</id>
+         <shape>1</shape>
+      </item>
+   </Objects>
+</GardenMap>
